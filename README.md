@@ -28,7 +28,9 @@
 - [微信正式开放内测“小程序”，不开发APP的日子真的来了？](http://36kr.com/p/5053349.html)
 - [火速移动技术VP陶一然：从腾讯浏览服务看微信“小程序”未来移动端格局](http://c.m.163.com/news/a/C1STSMLI0511B53B.html?s=newsapp&w=4&f=wx)
 - [微信小程序是什么 微信小程序内测资格怎么获得](http://www.cr173.com/html/108204_1.html)
+- [我们真的需要“小程序”么？HTML5 老兵如是说](http://cn.technode.com/post/2016-09-23/wechat-html5/)
 
-##同类产品
+## 同类产品
 
 - [它比微信小程序早出现半年，却不曾引爆技术圈](http://insights.thoughtworkers.org/wechat-app-and-pwa/)
+- [微信宣布要做应用号，做H5应用分发的“火速移动”等来了一场及时雨](http://36kr.com/p/5042164.html)
